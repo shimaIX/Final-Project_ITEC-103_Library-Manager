@@ -1,0 +1,546 @@
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library_Manager.Help.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library_Manager.Help.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 2.0\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library_Manager.Help.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 3.0\obj\Debug\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Help.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.UpdateBook.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\bin\Debug\Library Manager.exe.config
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\bin\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\bin\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.AddBooks.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Books.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Home.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.UpdateBook.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\mhartin\Desktop\Library Manager\Library Manager 4.0\obj\Debug\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 6.0\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Update.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.Add_Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 7.0\obj\Debug\Library_Manager.UpdateTransaction.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\bin\Debug\Library Manager.exe.config
+C:\Users\mhartin\Desktop\Library Manager 7.0\bin\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager 7.0\bin\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.AddBooks.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Add_Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Books.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Home.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.Update.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.UpdateBook.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library_Manager.UpdateTransaction.resources
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager 7.0\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Add_Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.Update.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library_Manager.UpdateTransaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Add_Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.Update.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library_Manager.UpdateTransaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Add_Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.Update.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library_Manager.UpdateTransaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Debug\Library Manager.pdb
+C:\Users\Ricci\Downloads\Library Manager 10.0\bin\Debug\Library Manager.exe.config
+C:\Users\Ricci\Downloads\Library Manager 10.0\bin\Debug\Library Manager.exe
+C:\Users\Ricci\Downloads\Library Manager 10.0\bin\Debug\Library Manager.pdb
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.AddBooks.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Add_Transaction.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Books.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Home.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.Update.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.UpdateBook.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library_Manager.UpdateTransaction.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library Manager.exe
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.Add_Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.Update.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.UpdateTransaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Debug\Library_Manager.ListOfBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\bin\Debug\Database1.mdf
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\bin\Debug\Database1_log.ldf
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.Add_Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.ListOfBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.Update.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library_Manager.UpdateTransaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 11.0\obj\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager 11.0\bin\Debug\Library Manager.exe.config
+C:\Users\mhartin\Desktop\Library Manager 11.0\bin\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager 11.0\bin\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.AddBooks.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.Add_Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.Home.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.ListOfBooks.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.Update.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.UpdateBook.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library_Manager.UpdateTransaction.resources
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager 11.0\obj\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager 11.5\bin\Debug\Library Manager.exe.config
+C:\Users\mhartin\Desktop\Library Manager 11.5\bin\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager 11.5\bin\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.AddBooks.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.Add_Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.Home.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.ListOfBooks.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.Update.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.UpdateBook.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.UpdateTransaction.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.SignIn.resources
+C:\Users\mhartin\Desktop\Library Manager 11.5\obj\Debug\Library_Manager.SignUp.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\bin\Debug\Library Manager.exe.config
+C:\Users\mhartin\Desktop\Library Manager placeholder\bin\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager placeholder\bin\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.AddBooks.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.Add_Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.Home.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.ListOfBooks.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.SignIn.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.SignUp.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.Update.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.UpdateBook.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library_Manager.UpdateTransaction.resources
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager placeholder\obj\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\bin\Debug\Library Manager.exe.config
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\bin\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\bin\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.Home.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.ListOfBooks.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.SignIn.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.SignUp.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library Manager.pdb
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.AboutUs.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.Home.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.ListOfBooks.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.SignIn.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.SignUp.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library Manager.exe
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\obj\Debug\Library Manager.pdb
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\bin\Debug\Resources\loginData.mdf
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\bin\Debug\Resources\loginData_log.ldf
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\bin\Debug\Library Manager.exe.config
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\bin\Debug\Library Manager.exe
+C:\Users\syefy\Downloads\Library Manager BETA 2.0\Library Manager BETA 1.0\bin\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\bin\Debug\Resources\loginData.mdf
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\bin\Debug\Resources\loginData_log.ldf
+C:\Users\mhartin\Desktop\Library Manager BETA 1.0\obj\Debug\Library_Manager.AboutUs.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\bin\Debug\Resources\loginData.mdf
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\bin\Debug\Resources\loginData_log.ldf
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.AboutUs.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.ListOfBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.SignIn.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.SignUp.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Library Manager FINAL VERSION\Library Manager BETA 1.0\obj\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\bin\Debug\Resources\loginData.mdf
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\bin\Debug\Resources\loginData_log.ldf
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\bin\Debug\Library Manager.exe.config
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\bin\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\bin\Debug\Library Manager.pdb
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.AboutUs.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Home.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.ListOfBooks.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.SignIn.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.SignUp.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library Manager.exe
+C:\Users\mhartin\Desktop\Library Manager Final Version 2.0\obj\Debug\Library Manager.pdb
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\bin\Debug\Resources\loginData.mdf
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\bin\Debug\Resources\loginData_log.ldf
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\bin\Debug\Library Manager.exe.config
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\bin\Debug\Library Manager.exe
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\bin\Debug\Library Manager.pdb
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.AboutUs.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Home.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.ListOfBooks.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.SignIn.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.SignUp.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library Manager.exe
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0\obj\Debug\Library Manager.pdb
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.AboutUs.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Home.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.ListOfBooks.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.SignIn.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.SignUp.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.exe
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.pdb
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\bin\Debug\Resources\loginData.mdf
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\bin\Debug\Resources\loginData_log.ldf
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\bin\Debug\Library Manager.exe.config
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\bin\Debug\Library Manager.exe
+C:\Users\Ricci\Documents\This is it\Library Manager Final Version 2.1\Library Manager Final Version 2.0 - Copy\bin\Debug\Library Manager.pdb
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\bin\Debug\Resources\loginData.mdf
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\bin\Debug\Resources\loginData_log.ldf
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\bin\Debug\Library Manager.exe.config
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\bin\Debug\Library Manager.exe
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\bin\Debug\Library Manager.pdb
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.AboutUs.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Gandia.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Hernandez.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Home.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Librarian.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.ListOfBooks.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.MainUI.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Properties.Resources.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Schedule.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.SignIn.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.SignUp.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Tolentino.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Transaction.resources
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.csproj.GenerateResource.cache
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.exe
+C:\Users\john gabrielle\OneDrive\Documents\Jhamal\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\bin\Debug\Resources\loginData.mdf
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\bin\Debug\Resources\loginData_log.ldf
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\bin\Debug\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\bin\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\bin\Debug\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.AboutUs.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.ListOfBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.SignIn.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.SignUp.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager final\Final Project (2)\Final Project\Library Manager Final Version 2.0 - Copy\obj\Debug\Library Manager.pdb

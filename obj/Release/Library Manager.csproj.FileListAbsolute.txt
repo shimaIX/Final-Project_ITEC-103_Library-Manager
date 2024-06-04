@@ -1,0 +1,115 @@
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\bin\Release\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\bin\Release\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\bin\Release\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Add_Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.Update.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library_Manager.UpdateTransaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 8.0\obj\Release\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\bin\Release\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\bin\Release\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\bin\Release\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Add_Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.Update.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library_Manager.UpdateTransaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 9.0\obj\Release\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\bin\Release\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\bin\Release\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\bin\Release\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Add_Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.Update.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library_Manager.UpdateTransaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\Library Manager 10.0\obj\Release\Library Manager.pdb
+C:\Users\Ricci\Downloads\Library Manager 10.0\bin\Release\Library Manager.exe.config
+C:\Users\Ricci\Downloads\Library Manager 10.0\bin\Release\Library Manager.exe
+C:\Users\Ricci\Downloads\Library Manager 10.0\bin\Release\Library Manager.pdb
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library Manager.csproj.AssemblyReference.cache
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.AddBooks.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Add_Transaction.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Books.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Gandia.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Hernandez.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Home.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Librarian.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.MainUI.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Properties.Resources.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Schedule.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Tolentino.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Transaction.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.Update.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.UpdateBook.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library_Manager.UpdateTransaction.resources
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library Manager.csproj.GenerateResource.cache
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library Manager.exe
+C:\Users\Ricci\Downloads\Library Manager 10.0\obj\Release\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\bin\Release\Library Manager.exe.config
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\bin\Release\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\bin\Release\Library Manager.pdb
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library Manager.csproj.AssemblyReference.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.AddBooks.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Add_Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Books.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Gandia.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Hernandez.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Home.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Librarian.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.MainUI.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Properties.Resources.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Schedule.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Tolentino.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Transaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.Update.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.UpdateBook.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library_Manager.UpdateTransaction.resources
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library Manager.csproj.GenerateResource.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library Manager.csproj.CoreCompileInputs.cache
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library Manager.exe
+D:\Files\Programming\Visual Studio\C#\[1] PROJECT\Library Manager\NEW\Library Manager 10.0\obj\Release\Library Manager.pdb
