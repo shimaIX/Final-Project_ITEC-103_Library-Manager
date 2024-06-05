@@ -1,4 +1,4 @@
-# Library Book Manager
+# School Library Manager
 
 ## Description
 This README serves as a concise yet comprehensive guide to the Library Book Manager project. It outlines the project's purpose, key features, documentation, and usage guidelines. Additionally, it provides information on contributing to the project, licensing details, acknowledgments, and contact information for support.
